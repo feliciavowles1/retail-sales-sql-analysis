@@ -1,0 +1,16 @@
+product_name,category,units_sold,orders_containing_product,total_revenue
+"Ergonomic Desk Chair",Office,5,5,1249.95
+"27-inch Monitor",Electronics,4,4,879.96
+"Noise-Canceling Headphones",Electronics,5,5,649.95
+"Mechanical Keyboard",Accessories,5,5,399.95
+"Portable SSD 1TB",Storage,4,4,359.96
+"USB-C Hub",Accessories,7,5,314.93
+"External Hard Drive 2TB",Storage,3,3,224.97
+"Monitor Arm",Office,3,3,209.97
+"Desk Lamp",Office,6,5,209.94
+"Wireless Charger",Electronics,7,5,209.93
+Webcam,Electronics,3,3,179.97
+"Wireless Mouse",Accessories,7,5,174.93
+"Laptop Stand",Office,4,4,159.96
+"HDMI Cable",Accessories,10,5,149.9
+"USB Flash Drive 128GB",Storage,7,4,139.93
