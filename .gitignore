@@ -1,0 +1,5 @@
+# SQLite database files
+*.db
+
+# macOS files
+.DS_Store
